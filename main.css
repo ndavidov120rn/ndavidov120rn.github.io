@@ -1,0 +1,122 @@
+#header {
+    background-color: #3a3966;
+    color: white;
+}
+
+.osnovna{
+    background-color: #3a3966;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    color: #3a3966;
+    background-color: white;
+    font-weight: bold;
+    font-style: italic;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #56a431;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+#ponude{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.borders{
+    color: #3a3966;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #3a3966;
+    padding: 1em;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+#tekst1{
+    padding-top: 1em;
+    font-size: 130%;
+    background-color: #3a3966;
+    color: white;
+    padding-bottom: 1em;
+}
+
+#tld{
+    padding-top: 2em;
+    padding-bottom: 1em;
+    color: #3a3966;
+}
+
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+
+#tekst2{
+    padding-top: 1em;
+    background-color: #3a3966;
+    color: white;
+    padding-bottom: 1em;
+    font-size: 120%;
+}
+
+#footer{
+    color: #3a3966;
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+    background-color: #eddddd;
+}
+
+#footer2{
+    padding-top: 1.5em;
+}
+
+hr{
+    height: 10px;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    padding-top: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.hosting{
+    color: #3a3966;
+    text-decoration: underline;
+}
+
+#tekst1hosting{
+    padding-top: 1em;
+    font-size: 110%;
+}
+
+#hostingPonude{
+    color: #3a3966;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#tekst2hosting{
+    text-align: center;
+    padding-top: 1.5em;
+    padding-bottom: 1em;
+    font-size: 130%;
+    font-weight: bold;
+    color: white;
+    background-color: #3a3966;
+}
+
+.zelenitekst{
+    color: #56a431;
+}
